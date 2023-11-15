@@ -16,7 +16,7 @@
   height: 178px;
   position: absolute;
   margin: 0 78px 188px 55px;
-  transition: margin-top .25s
+  transition: margin-top .25s;
 }
 
 .wgs__dirt-pile{
